@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 baris 1
 =======
 baris 2 dari third branch
@@ -7,3 +8,6 @@ baris 2 dari third branch
 =======
 baris 3 dari second branch
 >>>>>>> second
+=======
+baris 4 dari fourth branch
+>>>>>>> fourth
