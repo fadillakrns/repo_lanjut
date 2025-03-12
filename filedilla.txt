@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 baris 1
 =======
 baris 2 dari third branch
 >>>>>>> third
+=======
+baris 3 dari second branch
+>>>>>>> second
